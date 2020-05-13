@@ -1,3 +1,4 @@
 modsman-packutil.jar
 .minecraft/*
 !.minecraft/*/.modlist.json
+natives/
