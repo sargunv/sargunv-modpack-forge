@@ -4,107 +4,457 @@
       "1.15"
     ],
     "excluded_game_versions": [
-      "Forge",
-      "Rift"
-    ]
+      "Fabric"
+    ],
+    "release_cycle": "ALPHA"
   },
   "mods": [
     {
-      "project_id": 313219,
-      "project_name": "Health Overlay (Fabric)",
-      "file_id": 2908962,
-      "file_name": "HealthOverlay-1.15.2-2.3.10.jar",
+      "project_id": 326950,
+      "project_name": "Screenshot to Clipboard (Forge)",
+      "file_id": 2856524,
+      "file_name": "ScreenshotToClipboard-1.15.1-1.0.3.jar",
       "pinned": false
     },
     {
-      "project_id": 319036,
-      "project_name": "Chunk Activator",
-      "file_id": 2929539,
-      "file_name": "chunk-activator-2.0.0+mc1.15.2.jar",
+      "project_id": 364374,
+      "project_name": "Leaves Decay on other Leaves",
+      "file_id": 2892562,
+      "file_name": "leavesdecayonotherleaves-1.1.jar",
       "pinned": false
     },
     {
-      "project_id": 319741,
-      "project_name": "Suppress Unknown Item",
-      "file_id": 2927636,
-      "file_name": "suppress-unknown-item-2.0.1+mc1.15.2.jar",
+      "project_id": 297028,
+      "project_name": "Trample Stopper",
+      "file_id": 2904783,
+      "file_name": "tramplestopper-1.15.2-2.0.0.1-universal.jar",
       "pinned": false
     },
     {
-      "project_id": 319409,
-      "project_name": "Composable Automation",
-      "file_id": 2930631,
-      "file_name": "composable-automation-0.8.0+mc1.15.2.jar",
+      "project_id": 250363,
+      "project_name": "AutoRegLib",
+      "file_id": 2911830,
+      "file_name": "AutoRegLib-1.5-40.jar",
       "pinned": false
     },
     {
-      "project_id": 318225,
-      "project_name": "Proletarian",
-      "file_id": 2927907,
-      "file_name": "proletarian-1.0.0+mc1.15.2.jar",
+      "project_id": 301051,
+      "project_name": "Quark Oddities",
+      "file_id": 2914445,
+      "file_name": "QuarkOddities-1.15.2.jar",
       "pinned": false
     },
     {
-      "project_id": 255871,
-      "project_name": "Level Up HP",
-      "file_id": 2926823,
-      "file_name": "level-up-hp-5.0.0+mc1.15.2.jar",
+      "project_id": 355589,
+      "project_name": "Berry Good",
+      "file_id": 2871817,
+      "file_name": "berry_good-2.0.0.jar",
       "pinned": false
     },
     {
-      "project_id": 318894,
-      "project_name": "Data Loader",
-      "file_id": 2927042,
-      "file_name": "data-loader-2.0.0+mc1.15.2.jar",
+      "project_id": 69162,
+      "project_name": "CoFH Core",
+      "file_id": 2935185,
+      "file_name": "cofh_core-1.15.2-0.4.0b.jar",
       "pinned": false
     },
     {
-      "project_id": 318163,
-      "project_name": "I Am Very Smart",
-      "file_id": 2929499,
-      "file_name": "i-am-very-smart-2.0.0+mc1.15.2.jar",
+      "project_id": 371402,
+      "project_name": "Leap",
+      "file_id": 2955315,
+      "file_name": "leap-1.15.2-1.0.1.jar",
       "pinned": false
     },
     {
-      "project_id": 318684,
-      "project_name": "Beach Slimes",
-      "file_id": 2927655,
-      "file_name": "beach-slimes-2.0.0+mc1.15.2.jar",
+      "project_id": 238222,
+      "project_name": "Just Enough Items (JEI)",
+      "file_id": 2944279,
+      "file_name": "jei-1.15.2-6.0.0.4.jar",
       "pinned": false
     },
     {
-      "project_id": 317548,
-      "project_name": "Always Drop Loot",
-      "file_id": 2927622,
-      "file_name": "always-drop-loot-4.0.0+mc1.15.2.jar",
+      "project_id": 348215,
+      "project_name": "Bamboo Blocks",
+      "file_id": 2915926,
+      "file_name": "bambooblocks-1.15.2-1.3.jar",
       "pinned": false
     },
     {
-      "project_id": 308769,
-      "project_name": "Fabric Language Kotlin",
-      "file_id": 2843142,
-      "file_name": "fabric-language-kotlin-1.3.61+build.1.jar",
+      "project_id": 381736,
+      "project_name": "Savage \u0026 Ravage",
+      "file_id": 2952417,
+      "file_name": "savageandravage-1.15.2-1.0.2.jar",
       "pinned": false
     },
     {
-      "project_id": 318410,
-      "project_name": "Lead Villagers",
-      "file_id": 2927670,
-      "file_name": "lead-villagers-2.0.0+mc1.15.2.jar",
+      "project_id": 379145,
+      "project_name": "Level Up HP (Forge)",
+      "file_id": 2943162,
+      "file_name": "leveluphp-mc1.15.2-forge-5.1.2.jar",
       "pinned": false
     },
     {
-      "project_id": 306612,
-      "project_name": "Fabric API",
-      "file_id": 2898702,
-      "file_name": "fabric-api-0.5.1+build.294-1.15.jar",
+      "project_id": 374371,
+      "project_name": "Step",
+      "file_id": 2955350,
+      "file_name": "step-1.15.2-1.0.1.jar",
       "pinned": false
     },
     {
-      "project_id": 308702,
-      "project_name": "Mod Menu (Fabric)",
-      "file_id": 2902148,
-      "file_name": "modmenu-1.10.2+build.32.jar",
+      "project_id": 283644,
+      "project_name": "Placebo",
+      "file_id": 2870411,
+      "file_name": "Placebo-1.15.2-3.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 264353,
+      "project_name": "SwingThroughGrass",
+      "file_id": 2866676,
+      "file_name": "swingthroughgrass-1.15.2-1.4.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 361550,
+      "project_name": "No Potion Offset (Fabric/Forge)",
+      "file_id": 2875906,
+      "file_name": "no-potion-offset-1.0.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 356036,
+      "project_name": "Swamp Expansion",
+      "file_id": 2952423,
+      "file_name": "swampexpansion-1.15.2-1.6.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 355458,
+      "project_name": "Buzzier Bees",
+      "file_id": 2920221,
+      "file_name": "buzzierbees-1.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 288885,
+      "project_name": "FastWorkbench",
+      "file_id": 2856527,
+      "file_name": "FastWorkbench-1.15.1-3.0.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 376809,
+      "project_name": "Better Drowning",
+      "file_id": 2935820,
+      "file_name": "BetterDrowning-1.15.2-1.0.3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 353942,
+      "project_name": "Snow Under Trees",
+      "file_id": 2953954,
+      "file_name": "snowundertrees-1.15.2-v1.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 299540,
+      "project_name": "FastFurnace",
+      "file_id": 2856529,
+      "file_name": "FastFurnace-1.15.1-3.0.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 230976,
+      "project_name": "Fast Leaf Decay",
+      "file_id": 2922884,
+      "file_name": "FastLeafDecay-v22.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 353434,
+      "project_name": "Better Burning",
+      "file_id": 2922865,
+      "file_name": "BetterBurning-1.15.2-1.3.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 373687,
+      "project_name": "LocateBiome",
+      "file_id": 2922461,
+      "file_name": "locatebiome-1.15.2-v1.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 377322,
+      "project_name": "Oh My Gourd",
+      "file_id": 2935182,
+      "file_name": "omgourd-1.15.2-0.1.0b.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 373774,
+      "project_name": "Rare Ice (Forge/Fabric)",
+      "file_id": 2931027,
+      "file_name": "rare-ice-0.1.6.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 370782,
+      "project_name": "Dash",
+      "file_id": 2955317,
+      "file_name": "dash-1.15.2-1.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 284904,
+      "project_name": "No Recipe Book",
+      "file_id": 2947618,
+      "file_name": "noRecipeBook_v1.5.4formc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 377051,
+      "project_name": "Bed Benefits",
+      "file_id": 2940546,
+      "file_name": "BedBenefits-1.15.2-1.0.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 309927,
+      "project_name": "Curios API",
+      "file_id": 2934458,
+      "file_name": "curios-FORGE-1.15.2-2.0.2.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 361718,
+      "project_name": "Incubation",
+      "file_id": 2950501,
+      "file_name": "incubation-1.0.4-1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 337396,
+      "project_name": "Extra Boats",
+      "file_id": 2944352,
+      "file_name": "extraboats-1.3.4-1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 306770,
+      "project_name": "Patchouli",
+      "file_id": 2945108,
+      "file_name": "Patchouli-1.15.2-1.2-33.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 225643,
+      "project_name": "Botania",
+      "file_id": 2953670,
+      "file_name": "Botania-r1.15-384.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 334204,
+      "project_name": "Better Trident Return",
+      "file_id": 2933329,
+      "file_name": "bettertridentreturn-1.15.2-1.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 379578,
+      "project_name": "Data Loader (Forge)",
+      "file_id": 2943090,
+      "file_name": "data-loader-mc1.15.2-forge-2.1.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 291509,
+      "project_name": "The Endergetic Expansion",
+      "file_id": 2939846,
+      "file_name": "The-Endergetic-Expansion-1.15.2-v1.2.8.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 327968,
+      "project_name": "GoProne",
+      "file_id": 2936394,
+      "file_name": "goprone-1.15.x-1.3.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 241160,
+      "project_name": "NetherPortalFix",
+      "file_id": 2943661,
+      "file_name": "NetherPortalFix_1.15.2-6.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 379598,
+      "project_name": "I Am Very Smart (Forge)",
+      "file_id": 2943089,
+      "file_name": "i-am-very-smart-mc1.15.2-forge-2.1.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 228525,
+      "project_name": "Bookshelf",
+      "file_id": 2945789,
+      "file_name": "Bookshelf-1.15.2-5.5.34.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 326895,
+      "project_name": "Upgrade Aquatic",
+      "file_id": 2921106,
+      "file_name": "Upgrade-Aquatic-1.15.2-v1.5.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 368718,
+      "project_name": "JEITweaker",
+      "file_id": 2948684,
+      "file_name": "JEITweaker-1.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 243121,
+      "project_name": "Quark",
+      "file_id": 2954972,
+      "file_name": "Quark-r2.1-236.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 362393,
+      "project_name": "Atmospheric",
+      "file_id": 2920229,
+      "file_name": "atmospheric-1.15.2-1.2.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 239197,
+      "project_name": "CraftTweaker",
+      "file_id": 2953559,
+      "file_name": "CraftTweaker-1.15.2-6.0.0.26.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 378331,
+      "project_name": "Seeker Compass",
+      "file_id": 2939457,
+      "file_name": "Seeker-Compass-1.15.2.v1.0.0.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 271740,
+      "project_name": "Toast Control",
+      "file_id": 2871647,
+      "file_name": "ToastControl-1.15.2-3.0.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318255,
+      "project_name": "Phosphor (Forge)",
+      "file_id": 2919811,
+      "file_name": "phosphor-forge-mc1.15.2-0.5.2+build.4.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 351860,
+      "project_name": "Bloomful",
+      "file_id": 2920223,
+      "file_name": "bloomful-1.15.2-1.3.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 253449,
+      "project_name": "Hwyla",
+      "file_id": 2880069,
+      "file_name": "Hwyla-forge-1.10.8-B72_1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 310087,
+      "project_name": "Unmending",
+      "file_id": 2933039,
+      "file_name": "Unmending-1.1-1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 365045,
+      "project_name": "Autumnity",
+      "file_id": 2935733,
+      "file_name": "autumnity-1.2.0-1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 248787,
+      "project_name": "AppleSkin",
+      "file_id": 2883494,
+      "file_name": "AppleSkin-mc1.15.2-forge-1.0.13.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 314581,
+      "project_name": "Kottle",
+      "file_id": 2948346,
+      "file_name": "Kottle-1.5.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 238048,
+      "project_name": "V-Tweaks",
+      "file_id": 2918875,
+      "file_name": "VTweaks-1.15.2-3.1.6.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 319582,
+      "project_name": "Respawnable Pets",
+      "file_id": 2925420,
+      "file_name": "respawnablepets-1.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318872,
+      "project_name": "Charm",
+      "file_id": 2939810,
+      "file_name": "Charm-1.15.2-1.5.7.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 324087,
+      "project_name": "Strange",
+      "file_id": 2933269,
+      "file_name": "Strange-1.15.2-1.0.0-beta.3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 240630,
+      "project_name": "Just Enough Resources (JER)",
+      "file_id": 2946240,
+      "file_name": "JustEnoughResources-1.15.2-0.10.1.77.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 317780,
+      "project_name": "Xaero\u0027s World Map",
+      "file_id": 2924387,
+      "file_name": "XaerosWorldMap_1.5.7_Forge_1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 304881,
+      "project_name": "The Midnight",
+      "file_id": 2942601,
+      "file_name": "themidnight-0.5.7-3.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 307448,
+      "project_name": "OpenBackup",
+      "file_id": 2887598,
+      "file_name": "openbackup-1.15.1-0.0.0.2.jar",
       "pinned": false
     }
   ]
