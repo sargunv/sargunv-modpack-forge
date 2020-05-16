@@ -75,15 +75,15 @@
     {
       "project_id": 348215,
       "project_name": "Bamboo Blocks",
-      "file_id": 2915926,
-      "file_name": "bambooblocks-1.15.2-1.3.jar",
+      "file_id": 2957925,
+      "file_name": "Bamboo-Blocks-1.15.2-v1.4.0.jar",
       "pinned": false
     },
     {
       "project_id": 381736,
       "project_name": "Savage \u0026 Ravage",
-      "file_id": 2952417,
-      "file_name": "savageandravage-1.15.2-1.0.2.jar",
+      "file_id": 2957922,
+      "file_name": "Savage-and-Ravage-1.15.2-v1.1.0.jar",
       "pinned": false
     },
     {
@@ -124,15 +124,15 @@
     {
       "project_id": 356036,
       "project_name": "Swamp Expansion",
-      "file_id": 2952423,
-      "file_name": "swampexpansion-1.15.2-1.6.1.jar",
+      "file_id": 2958029,
+      "file_name": "Swamp-Expansion-1.15.2-v1.7.1.jar",
       "pinned": false
     },
     {
       "project_id": 355458,
       "project_name": "Buzzier Bees",
-      "file_id": 2920221,
-      "file_name": "buzzierbees-1.4.jar",
+      "file_id": 2957924,
+      "file_name": "Buzzier-Bees-1.15.2-v1.5.0.jar",
       "pinned": false
     },
     {
@@ -271,8 +271,8 @@
     {
       "project_id": 291509,
       "project_name": "The Endergetic Expansion",
-      "file_id": 2939846,
-      "file_name": "The-Endergetic-Expansion-1.15.2-v1.2.8.jar",
+      "file_id": 2957919,
+      "file_name": "The-Endergetic-Expansion-1.15.2-v1.3.0.jar",
       "pinned": false
     },
     {
@@ -299,15 +299,15 @@
     {
       "project_id": 228525,
       "project_name": "Bookshelf",
-      "file_id": 2945789,
-      "file_name": "Bookshelf-1.15.2-5.5.34.jar",
+      "file_id": 2957063,
+      "file_name": "Bookshelf-1.15.2-5.5.36.jar",
       "pinned": false
     },
     {
       "project_id": 326895,
       "project_name": "Upgrade Aquatic",
-      "file_id": 2921106,
-      "file_name": "Upgrade-Aquatic-1.15.2-v1.5.1.jar",
+      "file_id": 2957920,
+      "file_name": "Upgrade-Aquatic-1.15.2-v1.6.0.jar",
       "pinned": false
     },
     {
@@ -320,22 +320,22 @@
     {
       "project_id": 243121,
       "project_name": "Quark",
-      "file_id": 2954972,
-      "file_name": "Quark-r2.1-236.jar",
+      "file_id": 2956472,
+      "file_name": "Quark-r2.1-237.jar",
       "pinned": false
     },
     {
       "project_id": 362393,
       "project_name": "Atmospheric",
-      "file_id": 2920229,
-      "file_name": "atmospheric-1.15.2-1.2.1.jar",
+      "file_id": 2957921,
+      "file_name": "Atmospheric-1.15.2-v1.3.0.jar",
       "pinned": false
     },
     {
       "project_id": 239197,
       "project_name": "CraftTweaker",
-      "file_id": 2953559,
-      "file_name": "CraftTweaker-1.15.2-6.0.0.26.jar",
+      "file_id": 2957603,
+      "file_name": "CraftTweaker-1.15.2-6.0.0.27.jar",
       "pinned": false
     },
     {
@@ -362,8 +362,8 @@
     {
       "project_id": 351860,
       "project_name": "Bloomful",
-      "file_id": 2920223,
-      "file_name": "bloomful-1.15.2-1.3.2.jar",
+      "file_id": 2957918,
+      "file_name": "Bloomful-1.15.2-v1.4.0.jar",
       "pinned": false
     },
     {
@@ -455,6 +455,20 @@
       "project_name": "OpenBackup",
       "file_id": 2887598,
       "file_name": "openbackup-1.15.1-0.0.0.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 241665,
+      "project_name": "Psi",
+      "file_id": 2955279,
+      "file_name": "Psi r1.2-79.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 382216,
+      "project_name": "Abnormals Core",
+      "file_id": 2957837,
+      "file_name": "Abnormals-Core-1.15.2-v1.0.4.jar",
       "pinned": false
     }
   ]
